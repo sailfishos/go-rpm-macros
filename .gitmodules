@@ -1,0 +1,3 @@
+[submodule "go-rpm-macros"]
+	path = go-rpm-macros
+	url = https://github.com/sailfishos-mirror/go-rpm-macros.git
